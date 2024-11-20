@@ -11,4 +11,4 @@ def displayPDF(file):
 
     st.markdown(pdf_display, unsafe_allow_html=True)
 
-displayPDF('MsBits.pdf')
+displayPDF('./MsBits.pdf')
