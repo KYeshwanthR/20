@@ -3,3 +3,11 @@ from streamlit_pdf_viewer import pdf_viewer
 
 
 pdf_viewer('NcseBits.pdf',render_text=True)
+
+st.markdown("""
+    <style>
+    ._profileContainer_gzau3_53 {
+        display: none;
+    }
+    </style>
+""", unsafe_allow_html=True)
