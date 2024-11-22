@@ -9,5 +9,9 @@ st.markdown("""
     ._profileContainer_gzau3_53 {
         display: none;
     }
+    ._profilePreview_gzau3_63 {
+        display: none;
+    }
+
     </style>
 """, unsafe_allow_html=True)
